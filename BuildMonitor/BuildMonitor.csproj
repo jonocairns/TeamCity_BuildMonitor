@@ -164,6 +164,7 @@
     <Content Include="fonts\kenzo.ttf" />
     <Content Include="fonts\kenzo.woff" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
+    <None Include="Properties\PublishProfiles\MyBuildMonitor - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

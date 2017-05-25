@@ -63,6 +63,7 @@ html * {
 	color: #777;
 	margin-top: -12px;
 	display: inline-block;
+    font-size: 45px;
 }
 
 .buildTitle {
